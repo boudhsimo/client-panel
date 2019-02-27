@@ -10,8 +10,11 @@ class Person extends Component {
   }
 
   render() {
+    
     const {id,name,email,updatePerson, children} = this.props;
     const divId = "person-"+id;
+
+
     return (
       <div className="Person" id= {divId}  >
         <button onClick={this.changePerson}>Modify</button>

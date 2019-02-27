@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.boys{
+  background-color: red;
+  float:left;
+}
+.girls{
+  float:right;
+  background-color: pink;
+}

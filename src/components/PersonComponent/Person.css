@@ -1,7 +1,6 @@
 .Person{
     margin: 20px;
     border: 1px solid #4CAF50;
-    float:left;
     padding: 20px;
 }
 .Person span{
